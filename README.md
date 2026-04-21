@@ -25,7 +25,7 @@ Feedback Converter is a lightweight NLP-powered web application that analyzes us
 *(Add your screenshot here later)*
 
 ```md
-![App Screenshot](your-image-name.png)
+![App Screenshot](screenshot.png)
 ```
 
 ---
