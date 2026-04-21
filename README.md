@@ -22,11 +22,12 @@ Feedback Converter is a lightweight NLP-powered web application that analyzes us
 
 ## 📸 Preview
 
-*(Add your screenshot here later)*
 
-```md
-![App Screenshot](screenshot.png)
-```
+
+<p align="center">
+  <img src="screenshot.png" width="700"/>
+</p>
+
 
 ---
 
